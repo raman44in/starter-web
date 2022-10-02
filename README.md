@@ -12,5 +12,6 @@ this sec for dep
 
 ### How to continue
 this sec for all where we have changes
+Please for this repo and then issue pull rerquest for reviuew
 
 ### Copyright 2023
