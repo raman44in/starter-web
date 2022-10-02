@@ -5,6 +5,7 @@ this is simple web site project fir shgowing how to use git and github toirther
 
 this is explains
 ## Purpose
+this sec for purpose
 
 ## Deployment
 
