@@ -1,5 +1,5 @@
 # Starter Web Project
-this is simple web site project fir shgowing how to use git and github toirther . Adding a line for rebasing exmaple
+this is simple web site project fir shgowing how to use git and github toirther . Adding a line for rebasing exmaple, more change from my feature brancg too
 
 ## Intro
 
