@@ -1,2 +1,2 @@
-.docx
+*.docx
 ign.txt
